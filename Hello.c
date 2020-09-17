@@ -1,5 +1,5 @@
 #include "header.h"
 int main()
 {
-print("HELLO WORLD");
+printf("HELLO WORLD");
 }
